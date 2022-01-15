@@ -13,7 +13,6 @@ The project repository link will be provided soon...
 	- Data Requirements
 	- Enhanced Entity Relationship Diagram
 	- EER to Relational Mapping
-	- Details
 - Small Details That I Would Like To Highlight
 - Screenshots
 
@@ -89,10 +88,6 @@ Let's see how to create a relational model with the results of the mapping opera
 
 As shown in the figure, foreign key connections are shown with arrows.
 After this point, it remains to pass to SQL, where the tables, constraints and triggers must be determined.
-
-## Details
-
-The required triggers for the database have been added, which you can see in the project scripts, for this reason we will not go into detail.
 
 # Small Details That I Would Like To Highlight
 
