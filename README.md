@@ -1,7 +1,5 @@
 
 
-The project repository link will be provided soon...
-
 **Warning: Being a project aimed at a subject at my university, which is given in the Turkish language, you will see such language in small sections, a brief explanation will also be given in English.**
 
 # Contents
