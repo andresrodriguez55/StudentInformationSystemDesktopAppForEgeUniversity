@@ -1,8 +1,8 @@
 
 
 **Warning**: 
-	- If you start the application without having access to the application database when logging in in student mode or trying to log in in personal mode, you will be notified, but with a very slow speed. It is being investigated to increase the speed.
-	- Being a project aimed at a subject at my university, which is given in the Turkish language, you will see such language in small sections, a brief explanation will also be given in English.
+- If you start the application without having access to the application database when logging in in student mode or trying to log in in personal mode, you will be notified, but with a very slow speed. It is being investigated to increase the speed.
+- Being a project aimed at a subject at my university, which is given in the Turkish language, you will see such language in small sections, a brief explanation will also be given in English.
 	
 
 # Contents
