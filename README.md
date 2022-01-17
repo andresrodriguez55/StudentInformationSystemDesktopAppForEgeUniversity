@@ -73,6 +73,7 @@ Remember that there is an algorithm which suggests steps to do the said conversi
 
 ![](https://image.slidesharecdn.com/ereertorelationalmapping-120305102127-phpapp02/95/er-eer-to-relational-mapping-2-728.jpg?cb=1330943956)
 
+To make the process faster, I'll skip doing iterations, starting first with step number 8 and then continuously with step number 1.
 
 ![](https://drive.google.com/uc?id=17JhSsrbCmqvYcm5uE3wUChzXzMGHTK2e)
 ![](https://drive.google.com/uc?id=1QWYhNahjUQVsSvdBgoMHCH8l8jNWDi5h)
